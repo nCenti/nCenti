@@ -1,16 +1,22 @@
-## Hi there 👋
+<h2 align="center">Hi, im centi!</h2>
 
-<!--
-**nCenti/nCenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</hr>
 
-Here are some ideas to get you started:
+<h3 align="center">Social networks</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+| <a href="https://twitter.com/centiFN" target="_blank">**Twitter**</a> | <a href="https://twitch.tv/centit" target="_blank">**Twitch** | <a href="https://centi.is-a.dev" target="_blank">**Web**</a> | 
+| :---: | :---: | :---: | 
+| <img align='center' src='https://raw.githubusercontent.com/Carpodi/carpodi/main/images/Twitter.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/Carpodi/carpodi/main/images/Twitch.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/Carpodi/carpodi/main/images/website.png' height='100px'>                                    
+</div>
+ <div align="center">
+ <h3 align="center">Currently Working On<h3>
+
+<div align="center">
+
+  | <a href="nothing.com" target="_blank">**ServerCop**</a> | 
+:---: |  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carpodi&theme=dark)](https://github.com/carpodi)
