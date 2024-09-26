@@ -1,19 +1,15 @@
-<h2 align="center">Hi, im centi!</h2>
+<h1 align="center">Hi 👋, I'm Centi</h1>
+<h3 align="center">A learning developer from argentina</h3>
 
-</hr>
+- 🔭 I’m currently working on **Servercop**
 
-<h3 align="center">Social networks</h3>
+- 🌱 I’m currently learning **Java**
 
-<div align="center">
+- 👨‍💻 All of my projects are available at [https://centi.is-a.dev/](https://centi.is-a.dev/)
 
-| <a href="https://twitter.com/centiFN" target="_blank">**Twitter**</a> | <a href="https://twitch.tv/centit" target="_blank">**Twitch** | <a href="https://centi.is-a.dev" target="_blank">**Web**</a> | 
-| :---: | :---: | :---: | 
-| <img align='center' src='https://cdn.worldvectorlogo.com/logos/discord-6.svg' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/Carpodi/carpodi/main/images/Twitch.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/Carpodi/carpodi/main/images/website.png' height='100px'>                                    
-</div>
- <div align="center">
- <h3 align="center">Currently Working On<h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<div align="center">
-
-  | <a href="nothing.com" target="_blank">**ServerCop**</a> | 
-:---: |  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
