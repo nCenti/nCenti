@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://centi.is-a.dev/](https://centi.is-a.dev/)
+- 👨‍💻 My portfolio is available at [https://centi.is-a.dev/](https://centi.is-a.dev/)
 
 <h3 align="left">Connect with me: discord ccenti.</h3>
 <p align="left">
