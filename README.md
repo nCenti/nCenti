@@ -17,5 +17,3 @@
 
   | <a href="nothing.com" target="_blank">**ServerCop**</a> | 
 :---: |  
-
-inspired in carpodi
