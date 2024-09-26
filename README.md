@@ -18,5 +18,4 @@
   | <a href="nothing.com" target="_blank">**ServerCop**</a> | 
 :---: |  
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nCenti&theme=dark)](https://github.com/nCenti)
+inspired in carpodi
